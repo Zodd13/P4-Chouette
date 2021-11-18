@@ -271,13 +271,13 @@ th {
         max-width: 100% !important
     }
     h2,
-    h3,
+    h2,
     p {
         orphans: 3;
         widows: 3
     }
     h2,
-    h3 {
+    h2 {
         page-break-after: avoid
     }
     .navbar {
@@ -1496,13 +1496,13 @@ hr {
 
 .h1,
 .h2,
-.h3,
+.h2,
 .h4,
 .h5,
 .h6,
 h1,
 h2,
-h3,
+h2,
 h4,
 h5,
 h6 {
@@ -1516,8 +1516,8 @@ h6 {
 .h1 small,
 .h2 .small,
 .h2 small,
-.h3 .small,
-.h3 small,
+.h2 .small,
+.h2 small,
 .h4 .small,
 .h4 small,
 .h5 .small,
@@ -1528,8 +1528,8 @@ h1 .small,
 h1 small,
 h2 .small,
 h2 small,
-h3 .small,
-h3 small,
+h2 .small,
+h2 small,
 h4 .small,
 h4 small,
 h5 .small,
@@ -1543,10 +1543,10 @@ h6 small {
 
 .h1,
 .h2,
-.h3,
+.h2,
 h1,
 h2,
-h3 {
+h2 {
     margin-top: 20px;
     margin-bottom: 10px
 }
@@ -1555,14 +1555,14 @@ h3 {
 .h1 small,
 .h2 .small,
 .h2 small,
-.h3 .small,
-.h3 small,
+.h2 .small,
+.h2 small,
 h1 .small,
 h1 small,
 h2 .small,
 h2 small,
-h3 .small,
-h3 small {
+h2 .small,
+h2 small {
     font-size: 65%
 }
 
@@ -1601,8 +1601,8 @@ h2 {
     font-size: 30px
 }
 
-.h3,
-h3 {
+.h2,
+h2 {
     font-size: 24px
 }
 
