@@ -8,7 +8,7 @@ Une analyse complète du site initial, une optimisation ainsi qu'une comparaison
 afin d'aider l'entreprise à améliorer son référencement.
 #
 Lien de la version optimiser : https://zodd13.github.io/P4_ChouetteAgence/
-
+Lien du site initial : https://zodd13.github.io/P4_ChouetteAgence_SiteInitial/
 
 
 
